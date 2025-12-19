@@ -1,0 +1,23 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: wheat;
+}
+
+#Logo_Title{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#HomePage_Tag{
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 4px;
+  background-color: #ccc;
+  box-shadow: 3px 10px 70px black ;
+}
